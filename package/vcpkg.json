@@ -1,0 +1,11 @@
+{
+  "name": "depends",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "rho",
+      "host": true
+    }
+  ]
+}
