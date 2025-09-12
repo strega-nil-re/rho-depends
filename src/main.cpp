@@ -1,5 +1,5 @@
-#include <print>
+#include <mu.h>
 
 int main() {
-  std::println("Hello, Nicole");
+  mu::do_the_thing("Nicole");
 }
